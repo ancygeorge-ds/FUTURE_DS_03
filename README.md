@@ -1,5 +1,7 @@
 # FUTURE_DS_03
+
 Student Satisfaction Survey Data Analysis – FutureIntern Task 3
+
 The Student Satisfaction Survey analysis provides a comprehensive overview of students’ perceptions of faculty performance and course delivery at the institution. Based on responses from 1001 students across multiple departments, the overall findings indicate a generally positiveacademic environment with clear strengths and identifiable areas for improvement. 
 
 Faculty members are perceived to be highly knowledgeable in their respective subjects, as reflected by the highest average score in the survey. Additionally, the ability of instructors to explain concepts clearly and make effective use of presentations stands out as a major strength, suggesting that teaching methodologies are largely effective and well-received by students.
